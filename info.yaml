@@ -56,6 +56,7 @@ pinout:
   ua[0]: "OUT_Maj"
   ua[1]: "INN"
   ua[2]: "INP"
+  ua[3]: "TEST"
 
 # Do not change!
 yaml_version: 6
